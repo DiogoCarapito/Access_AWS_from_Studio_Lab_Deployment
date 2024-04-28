@@ -1,7 +1,9 @@
 [![Github Actions Workflow](https://github.com/DiogoCarapito/Access_AWS_from_Studio_Lab_Deployment/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/Access_AWS_from_Studio_Lab_Deployment/actions/workflows/main.yaml)
 
-# python_project_template
-Personal python project template
+# Access_AWS_from_Studio_Lab_Deployment
+Deploy A Hugging Face Pretrained Model to Amazon SageMaker Serverless Endpoint - Boto3
+
+[https://studiolab.sagemaker.aws/import/github/aws/studio-lab-examples/blob/main/connect-to-aws/Access_AWS_from_Studio_Lab_Deployment.ipynb](https://studiolab.sagemaker.aws/import/github/aws/studio-lab-examples/blob/main/connect-to-aws/Access_AWS_from_Studio_Lab_Deployment.ipynb)
 
 ## cheat sheet
 
